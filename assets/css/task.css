@@ -1,0 +1,26 @@
+.head
+{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.head p{
+    width: 36%;
+    margin-left: 32%;
+}
+.content{
+    padding:75px;
+    background-color:blueviolet;
+}
+.content h3{
+    text-align: center;
+}
+.content-text
+{
+
+    padding-top: 10px;
+}
+span{
+
+    font-size: 10px;
+}

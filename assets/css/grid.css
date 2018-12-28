@@ -1,0 +1,39 @@
+.head
+{
+    padding:70px;
+    background-color:red;
+    text-align: center;
+}
+.box{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 10px;
+    
+}
+.content p{
+    padding-top:10px;
+    padding-left:10px;
+}
+.button{
+    margin-left:10px;
+}
+.content a:hover{
+    text-decoration:none;
+}
+span{
+    float:right;
+    font-size: 12px;
+}
+.content a{
+    border: 1px solid grey;
+    padding:5px;
+    border-radius:2px;
+}
+.navigation{
+    padding-bottom: 65px;
+}
+.navhover a:hover {
+    font-size: 20px;
+}
+.head h2::after{
+    content: " BeforeClass ";    
+}
